@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Sergio! 👋
 
-- 🔭 Estou trabalhando hoje FullStack na InCeres
+- 🔭 Estou trabalhando hoje FullStack na @beerorcoffee
 - 🌱 Estudando React Native, TypeScript
 - 📫 Contato: sergiovmml@gmail.com
 
